@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 
 def new_hash
   names = {}
@@ -9,7 +9,6 @@ def actor
 end
 
 def monopoly
-    binding.pry
 	monopoly = {
 	    railroads: {}
 }
