@@ -9,9 +9,9 @@ def actor
 end
 
 def monopoly
+    binding.pry
 	monopoly = {
 	    railroads: {}
-	    binding.pry
 }
 end
 
